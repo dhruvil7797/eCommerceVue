@@ -1,4 +1,4 @@
-# ecommercevue
+# eCommerceVue
 
 # Introduction 
 eCommerce Application's 
